@@ -1,0 +1,1974 @@
+﻿Log file open, 09/28/20 11:52:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CRUNCH
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.053108
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=AranE666 -epicuserid=0b9f2d41980e46c485132b96b348e327 -epiclocale=en
+LogInit: Base Directory: H:/Unreal/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.28-10.52.38:476][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.28-10.52.38:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:477][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.28-10.52.38:478][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.28-10.52.38:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.28-10.52.38:479][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.28-10.52.38:479][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.28-10.52.38:481][  0]LogHAL: Display: Platform has ~ 16 GB [17105973248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.28-10.52.38:481][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.28-10.52.38:481][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.28-10.52.38:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Scalability.ini]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.28-10.52.38:482][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Crunch/CRUNCH/Saved/Config/Windows/Engine.ini]
+[2020.09.28-10.52.38:482][  0]LogInit: Computer: DESKTOP-8V63J02
+[2020.09.28-10.52.38:482][  0]LogInit: User: Aran
+[2020.09.28-10.52.38:482][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.09.28-10.52.38:482][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.28-10.52.38:482][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.28-10.52.38:482][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.28-10.52.38:482][  0]LogMemory: Process Physical Memory: 110.79 MB used, 110.79 MB peak
+[2020.09.28-10.52.38:482][  0]LogMemory: Process Virtual Memory: 102.68 MB used, 102.68 MB peak
+[2020.09.28-10.52.38:482][  0]LogMemory: Physical Memory: 6717.68 MB used,  9595.84 MB free, 16313.53 MB total
+[2020.09.28-10.52.38:482][  0]LogMemory: Virtual Memory: 5179.88 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.09.28-10.52.38:484][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.28-10.52.38:495][  0]LogInit: Using OS detected language (en-GB).
+[2020.09.28-10.52.38:495][  0]LogInit: Using OS detected locale (en-GB).
+[2020.09.28-10.52.38:495][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.09.28-10.52.38:633][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.28-10.52.38:633][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.28-10.52.38:720][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.28-10.52.38:721][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.28-10.52.38:721][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.28-10.52.38:800][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.09.28-10.52.38:800][  0]LogD3D11RHI:       5980/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.28-10.52.38:801][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.28-10.52.38:801][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.28-10.52.38:801][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.28-10.52.38:807][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.28-10.52.38:807][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.28-10.52.38:807][  0]LogWindows: EnumDisplayDevices:
+[2020.09.28-10.52.38:808][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.09.28-10.52.38:808][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.28-10.52.38:808][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.28-10.52.38:808][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.09.28-10.52.38:808][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.28-10.52.38:808][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.09.28-10.52.38:808][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.09.28-10.52.38:808][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.09.28-10.52.38:808][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.09.28-10.52.38:863][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.28-10.52.38:863][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.28-10.52.38:883][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.28-10.52.39:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.28-10.52.39:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.28-10.52.39:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.28-10.52.39:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.28-10.52.39:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.28-10.52.39:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.28-10.52.39:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.28-10.52.39:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.28-10.52.39:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.28-10.52.39:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.28-10.52.39:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.28-10.52.39:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.28-10.52.39:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.28-10.52.39:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.28-10.52.39:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.28-10.52.39:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.28-10.52.39:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.28-10.52.39:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.28-10.52.39:197][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.28-10.52.39:199][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.28-10.52.39:212][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../../Crunch/CRUNCH/Intermediate/Shaders/WorkingDirectory/1928/).
+[2020.09.28-10.52.39:212][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aran/AppData/Local/Temp/UnrealShaderWorkingDir/71910D6F4222218862FC9986DA26F71A/'.
+[2020.09.28-10.52.39:213][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.28-10.52.39:213][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.28-10.52.39:213][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.28-10.52.39:781][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.28-10.52.39:825][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Aran/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.28-10.52.39:825][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aran/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.28-10.52.39:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Crunch/CRUNCH/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.28-10.52.39:825][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.28-10.52.39:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Crunch/CRUNCH/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.28-10.52.39:825][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.28-10.52.39:834][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.28-10.52.39:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.28-10.52.39:834][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.28-10.52.39:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.28-10.52.39:835][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.28-10.52.39:835][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.28-10.52.39:856][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.28-10.52.39:858][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.28-10.52.39:858][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.28-10.52.39:896][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.09.28-10.52.40:118][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.28-10.52.40:228][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.28-10.52.40:228][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.28-10.52.40:228][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.28-10.52.40:228][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.28-10.52.40:228][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.28-10.52.40:243][  0]LogNetVersion: CRUNCH 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2422846099)
+[2020.09.28-10.52.40:971][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.027161 seconds
+[2020.09.28-10.52.40:978][  0]LogUObjectArray: 46288 objects as part of root set at end of initial load.
+[2020.09.28-10.52.40:978][  0]LogUObjectAllocator: 8062376 out of 0 bytes used by permanent object pool.
+[2020.09.28-10.52.40:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.28-10.52.41:275][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.28-10.52.41:277][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.28-10.52.41:313][  0]SourceControl: Source control is disabled
+[2020.09.28-10.52.41:313][  0]SourceControl: Source control is disabled
+[2020.09.28-10.52.41:313][  0]SourceControl: Source control is disabled
+[2020.09.28-10.52.41:314][  0]SourceControl: Source control is disabled
+[2020.09.28-10.52.41:314][  0]SourceControl: Source control is disabled
+[2020.09.28-10.52.41:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.28-10.52.41:378][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.28-10.52.41:378][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.28-10.52.41:443][  0]LogOcInput: OculusInput pre-init called
+[2020.09.28-10.52.41:448][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.28-10.52.41:448][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.28-10.52.41:506][  0]LogEngine: Initializing Engine...
+[2020.09.28-10.52.41:507][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.28-10.52.41:763][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.28-10.52.41:768][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-10.52.41:775][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-10.52.41:775][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-10.52.41:776][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-10.52.41:776][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: Channel Order:
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-10.52.41:787][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-10.52.41:796][  0]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-10.52.41:799][  0]LogInit: FAudioDevice initialized.
+[2020.09.28-10.52.41:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.28-10.52.41:876][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Aran/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.28-10.52.41:880][  0]LogInit: Texture streaming: Enabled
+[2020.09.28-10.52.41:887][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.28-10.52.41:887][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.28-10.52.41:888][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.28-10.52.41:931][  0]LogInit: Transaction tracking system initialized
+[2020.09.28-10.52.41:939][  0]BlueprintLog: New page: Editor Load
+[2020.09.28-10.52.41:958][  0]LocalizationService: Localization service is disabled
+[2020.09.28-10.52.42:147][  0]LogFileCache: Scanning file cache for directory 'H:/Crunch/CRUNCH/Content/' took 0.00s
+[2020.09.28-10.52.42:147][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.28-10.52.42:147][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.28-10.52.42:220][  0]SourceControl: Source control is disabled
+[2020.09.28-10.52.42:220][  0]Cmd: MAP LOAD FILE="../../../../../Crunch/CRUNCH/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.28-10.52.42:220][  0]LightingResults: New page: Lighting Build
+[2020.09.28-10.52.42:221][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-10.52.42:221][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-10.52.42:221][  0]MapCheck: New page: Map Check
+[2020.09.28-10.52.42:221][  0]LightingResults: New page: Lighting Build
+[2020.09.28-10.52.42:247][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.28-10.52.42:736][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.28-10.52.42:745][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.28-10.52.42:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.09.28-10.52.42:775][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.28-10.52.42:775][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2020.09.28-10.52.42:775][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.555
+[2020.09.28-10.52.42:868][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.52.42:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.52.42:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.52.42:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.52.42:886][  0]LogCollectionManager: Loaded 0 collections in 0.001327 seconds
+[2020.09.28-10.52.42:896][  0]LogFileCache: Scanning file cache for directory 'H:/Crunch/CRUNCH/Saved/Collections/' took 0.00s
+[2020.09.28-10.52.42:897][  0]LogFileCache: Scanning file cache for directory 'H:/Crunch/CRUNCH/Content/Developers/Aran/Collections/' took 0.00s
+[2020.09.28-10.52.42:897][  0]LogFileCache: Scanning file cache for directory 'H:/Crunch/CRUNCH/Content/Collections/' took 0.00s
+[2020.09.28-10.52.42:897][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3009 classes and 710 folders.
+[2020.09.28-10.52.42:898][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.28-10.52.42:930][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.28-10.52.42:933][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.09.28-10.52.42:956][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.28-10.52.42:957][  0]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.28-10.52.42:961][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.28-10.52.43:012][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.09.28-10.52.43:105][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.09.28-10.52.43:112][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.28-10.52.43:112][  0]LogLoad: (Engine Initialization) Total time: 5.51 seconds
+[2020.09.28-10.52.43:112][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.28-10.52.43:151][  0]LogAssetRegistry: Asset discovery search completed in 3.2548 seconds
+[2020.09.28-10.52.43:153][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.09.28-10.52.43:154][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.28-10.52.43:173][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.28-10.53.52:949][962]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.28-10.53.52:960][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AICharacter.BP_AICharacter
+[2020.09.28-10.53.53:087][962]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.09.28-10.53.53:710][962]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.28-10.53.53:794][963]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.28-10.54.18:066][612]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:\Foley\Sounds\Crunch\Sounds\Door Close.wav)
+[2020.09.28-10.54.18:069][612]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Door_Close...
+[2020.09.28-10.54.18:069][612]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Door_Close.Door_Close will be modified from 40 to 40.
+[2020.09.28-10.54.18:077][612]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 63822 while cooking SoundWave /Game/Assets/Sounds/Door_Close.Door_Close.
+[2020.09.28-10.54.18:080][612]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:\Foley\Sounds\Crunch\Sounds\Door Open.wav)
+[2020.09.28-10.54.18:084][612]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Door_Open...
+[2020.09.28-10.54.18:084][612]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Door_Open.Door_Open will be modified from 40 to 40.
+[2020.09.28-10.54.18:097][612]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 89202 while cooking SoundWave /Game/Assets/Sounds/Door_Open.Door_Open.
+[2020.09.28-10.54.25:543][254]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-10.54.25:572][254]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/BedRoom.BedRoom
+[2020.09.28-10.54.25:603][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.09.28-10.54.36:179][254]LogSlate: Window 'Save Content' being destroyed
+[2020.09.28-10.54.36:220][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../../Crunch/CRUNCH/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2020.09.28-10.54.36:259][254]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/BP_AICharacter5CB02A10402038AC84E9FB9E197A44BA.tmp' to '../../../../../Crunch/CRUNCH/Content/AI/BP_AICharacter.uasset'
+[2020.09.28-10.54.36:265][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Door_Close" FILE="../../../../../Crunch/CRUNCH/Content/Assets/Sounds/Door_Close.uasset" SILENT=true
+[2020.09.28-10.54.36:271][254]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/Door_CloseA477C0774BECA7A82AA85FB58075D901.tmp' to '../../../../../Crunch/CRUNCH/Content/Assets/Sounds/Door_Close.uasset'
+[2020.09.28-10.54.36:275][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Door_Open" FILE="../../../../../Crunch/CRUNCH/Content/Assets/Sounds/Door_Open.uasset" SILENT=true
+[2020.09.28-10.54.36:282][254]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/Door_Open4C5201264F932003A1DDF7A7CB062526.tmp' to '../../../../../Crunch/CRUNCH/Content/Assets/Sounds/Door_Open.uasset'
+[2020.09.28-10.54.36:283][254]Cmd: MAP LOAD FILE="../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.28-10.54.36:283][254]LightingResults: New page: Lighting Build
+[2020.09.28-10.54.36:284][254]LoadErrors: New page: Loading map: BedRoom.umap
+[2020.09.28-10.54.36:284][254]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-10.54.36:284][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-10.54.36:284][254]MapCheck: New page: Map Check
+[2020.09.28-10.54.36:284][254]LightingResults: New page: Lighting Build
+[2020.09.28-10.54.36:314][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.09.28-10.54.36:325][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.28-10.54.36:355][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.09.28-10.54.36:381][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.28-10.54.36:381][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.09.28-10.54.36:381][254]LogFileHelpers: Loading map 'BedRoom' took 0.099
+[2020.09.28-10.54.36:440][254]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.28-10.54.36:440][254]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_AICharacter.BP_AICharacter
+[2020.09.28-10.54.36:440][254]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Door_Close.Door_Close
+[2020.09.28-10.54.36:440][254]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/Door_Open.Door_Open
+[2020.09.28-10.54.38:730][512]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2020.09.28-10.54.40:486][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Door.Door
+[2020.09.28-10.55.40:977][518]BlueprintLog: New page: Compile Door
+[2020.09.28-10.55.41:185][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.28-10.55.43:423][772]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-10.55.43:441][772]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.09.28-10.55.43:455][772]LogPlayLevel: [PlayLevel] Compiling BP_AICharacter before play...
+[2020.09.28-10.55.43:688][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.09.28-10.55.43:689][772]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (1 blueprints)
+[2020.09.28-10.55.43:689][772]PIE: New page: PIE session: BedRoom (28 Sep 2020, 12:55:43)
+[2020.09.28-10.55.43:690][772]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.28-10.55.43:691][772]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.28-10.55.43:691][772]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-10.55.43:697][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006723s)
+[2020.09.28-10.55.43:698][772]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-10.55.43:698][772]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2020.09.28-10.55.43:698][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007591s)
+[2020.09.28-10.55.43:726][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.09.28-10.55.43:726][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-10.55.43:726][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-10.55.43:726][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-10.55.43:726][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-10.55.43:726][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-10.55.43:727][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-10.55.43:727][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-10.55.43:727][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-10.55.43:727][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-10.55.43:727][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: Channel Order:
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-10.55.43:735][772]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-10.55.43:739][772]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-10.55.43:740][772]LogInit: FAudioDevice initialized.
+[2020.09.28-10.55.43:746][772]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-10.55.43:748][772]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-11.55.43
+[2020.09.28-10.55.43:748][772]LogWorld: Bringing up level for play took: 0.002016
+[2020.09.28-10.55.43:749][772]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.09.28-10.55.43:753][772]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.09.28-10.55.43:757][772]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.001
+[2020.09.28-10.56.03:773][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-10.56.03:776][144]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-10.56.03:796][144]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-10.56.03:796][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.56.03:796][144]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-10.56.03:796][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-10.56.03:796][144]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-10.56.03:797][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-10.56.03:804][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-10.56.03:808][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-10.56.03:836][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-10.56.03:838][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.56.03:859][144]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.09.28-10.56.03:874][145]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBF8A044C-4E57-09D2-63B5-7D83B5E75BD5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=3a69cc54499b2196c220a081780addb7%7C0b9f2d41980e46c485132b96b348e327%7Ca0a0b14e-19ef-4262-a45a-b8857311f17f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: libcurl info message cache 1 (Closing connection 2)
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: 0000020B1DEF5F80: libcurl info message cache 4 (Closing connection 3)
+[2020.09.28-10.57.37:032][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBF8A044C-4E57-09D2-63B5-7D83B5E75BD5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=3a69cc54499b2196c220a081780addb7%7C0b9f2d41980e46c485132b96b348e327%7Ca0a0b14e-19ef-4262-a45a-b8857311f17f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.09.28-10.58.20:247][ 80]BlueprintLog: New page: Compile Door
+[2020.09.28-10.58.20:513][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.09.28-10.59.06:186][495]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.09.28-10.59.06:200][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BedRoom" FILE="../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.28-10.59.06:230][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.09.28-10.59.06:281][495]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/BedRoom775AAFF04FE13A8BB582F7B3A6B43331.tmp' to '../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap'
+[2020.09.28-10.59.06:310][495]LogFileHelpers: Saving map 'BedRoom' took 0.110
+[2020.09.28-10.59.06:323][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Door" FILE="../../../../../Crunch/CRUNCH/Content/Actors/Door.uasset" SILENT=true
+[2020.09.28-10.59.06:356][495]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/Door2671D8F046B3E736A26F44851ADAFFE2.tmp' to '../../../../../Crunch/CRUNCH/Content/Actors/Door.uasset'
+[2020.09.28-10.59.06:374][495]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.28-10.59.06:374][495]LogContentValidation: Display: Validating World /Game/Level/BedRoom.BedRoom
+[2020.09.28-10.59.06:374][495]LogContentValidation: Display: Validating Blueprint /Game/Actors/Door.Door
+[2020.09.28-10.59.07:219][594]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-10.59.07:237][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-10.59.07:237][594]PIE: New page: PIE session: BedRoom (28 Sep 2020, 12:59:07)
+[2020.09.28-10.59.07:237][594]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-10.59.07:244][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006934s)
+[2020.09.28-10.59.07:245][594]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-10.59.07:245][594]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2020.09.28-10.59.07:245][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007709s)
+[2020.09.28-10.59.07:277][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-10.59.07:278][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-10.59.07:278][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-10.59.07:279][594]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-10.59.07:279][594]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: Channel Order:
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-10.59.07:286][594]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-10.59.07:290][594]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-10.59.07:291][594]LogInit: FAudioDevice initialized.
+[2020.09.28-10.59.07:296][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-10.59.07:298][594]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-11.59.07
+[2020.09.28-10.59.07:298][594]LogWorld: Bringing up level for play took: 0.001907
+[2020.09.28-10.59.07:299][594]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.09.28-10.59.07:303][594]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.453
+[2020.09.28-10.59.30:087][326]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-10.59.30:603][388]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-10.59.36:028][ 39]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-10.59.37:646][233]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-10.59.38:312][313]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-10.59.38:326][313]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-10.59.38:356][313]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-10.59.38:356][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.59.38:356][313]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-10.59.38:356][313]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-10.59.38:356][313]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-10.59.38:357][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-10.59.38:367][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-10.59.38:372][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-10.59.38:399][313]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-10.59.38:401][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-10.59.38:407][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.09.28-10.59.38:424][314]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.09.28-10.59.40:534][560]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2020.09.28-11.00.15:589][594]BlueprintLog: New page: Compile Door
+[2020.09.28-11.00.15:852][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.09.28-11.00.17:639][801]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.00.17:657][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.00.17:657][801]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:00:17)
+[2020.09.28-11.00.17:658][801]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.00.17:664][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006889s)
+[2020.09.28-11.00.17:665][801]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.00.17:665][801]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2020.09.28-11.00.17:665][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007657s)
+[2020.09.28-11.00.17:698][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.00.17:699][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.00.17:699][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.00.17:700][801]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.00.17:700][801]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.00.17:708][801]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.00.17:712][801]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.00.17:713][801]LogInit: FAudioDevice initialized.
+[2020.09.28-11.00.17:722][801]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.00.17:724][801]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.00.17
+[2020.09.28-11.00.17:724][801]LogWorld: Bringing up level for play took: 0.001902
+[2020.09.28-11.00.17:724][801]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.09.28-11.00.17:729][801]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.027
+[2020.09.28-11.00.40:478][526]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.00.40:987][587]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.00.46:413][238]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.00.48:087][439]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.00.48:196][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.00.48:216][452]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.00.48:236][452]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.00.48:236][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.00.48:236][452]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.00.48:236][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.00.48:236][452]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.00.48:237][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.00.48:250][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.00.48:255][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.00.48:283][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.00.48:285][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.00.48:290][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.09.28-11.00.48:305][453]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.09.28-11.01.57:962][971]BlueprintLog: New page: Compile Door
+[2020.09.28-11.01.58:227][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.09.28-11.02.37:312][565]BlueprintLog: New page: Compile Door
+[2020.09.28-11.02.37:581][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.09.28-11.02.40:102][855]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.09.28-11.02.40:113][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BedRoom" FILE="../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.28-11.02.40:144][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.09.28-11.02.40:178][855]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/BedRoom245943C7476BA561EA587E930BB8C7AE.tmp' to '../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap'
+[2020.09.28-11.02.40:205][855]LogFileHelpers: Saving map 'BedRoom' took 0.092
+[2020.09.28-11.02.40:214][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Door" FILE="../../../../../Crunch/CRUNCH/Content/Actors/Door.uasset" SILENT=true
+[2020.09.28-11.02.40:244][855]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/Door0D04E4914ACB058B1861EC94B80D9664.tmp' to '../../../../../Crunch/CRUNCH/Content/Actors/Door.uasset'
+[2020.09.28-11.02.40:260][855]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.28-11.02.40:261][855]LogContentValidation: Display: Validating World /Game/Level/BedRoom.BedRoom
+[2020.09.28-11.02.40:261][855]LogContentValidation: Display: Validating Blueprint /Game/Actors/Door.Door
+[2020.09.28-11.02.41:092][953]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.02.41:109][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.02.41:110][953]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:02:41)
+[2020.09.28-11.02.41:110][953]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.02.41:116][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006671s)
+[2020.09.28-11.02.41:117][953]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.02.41:117][953]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2020.09.28-11.02.41:117][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007464s)
+[2020.09.28-11.02.41:148][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.02.41:149][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.02.41:149][953]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.02.41:149][953]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.02.41:157][953]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.02.41:161][953]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.02.41:162][953]LogInit: FAudioDevice initialized.
+[2020.09.28-11.02.41:169][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.02.41:172][953]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.02.41
+[2020.09.28-11.02.41:172][953]LogWorld: Bringing up level for play took: 0.001898
+[2020.09.28-11.02.41:172][953]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.28-11.02.41:176][953]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.58
+[2020.09.28-11.02.53:052][376]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.02.53:066][376]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.02.53:086][376]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.02.53:086][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.02.53:086][376]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.02.53:086][376]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.02.53:086][376]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.02.53:086][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.02.53:101][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.02.53:106][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.02.53:134][376]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.02.53:136][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.02.53:141][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.09.28-11.02.53:155][377]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.28-11.03.27:965][374]BlueprintLog: New page: Compile Door
+[2020.09.28-11.03.28:227][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.09.28-11.03.33:313][959]BlueprintLog: New page: Compile Door
+[2020.09.28-11.03.33:577][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.09.28-11.03.35:288][159]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.03.35:307][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.03.35:307][159]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:03:35)
+[2020.09.28-11.03.35:307][159]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.03.35:314][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006931s)
+[2020.09.28-11.03.35:314][159]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.03.35:315][159]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2020.09.28-11.03.35:315][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007728s)
+[2020.09.28-11.03.35:347][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.03.35:347][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.03.35:348][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.03.35:348][159]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.03.35:348][159]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.03.35:355][159]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.03.35:359][159]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.03.35:360][159]LogInit: FAudioDevice initialized.
+[2020.09.28-11.03.35:368][159]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.03.35:370][159]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.03.35
+[2020.09.28-11.03.35:370][159]LogWorld: Bringing up level for play took: 0.001909
+[2020.09.28-11.03.35:371][159]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.28-11.03.35:375][159]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.381
+[2020.09.28-11.03.42:109][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.03.42:126][965]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.03.42:146][965]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.03.42:146][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.03.42:146][965]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.03.42:146][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.03.42:146][965]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.03.42:146][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.03.42:157][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.03.42:162][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.03.42:191][965]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.03.42:193][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.03.42:198][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.09.28-11.03.42:213][966]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.28-11.03.46:934][438]BlueprintLog: New page: Compile Door
+[2020.09.28-11.03.47:191][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.09.28-11.03.48:929][641]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.03.48:947][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.03.48:947][641]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:03:48)
+[2020.09.28-11.03.48:947][641]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.03.48:954][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006923s)
+[2020.09.28-11.03.48:955][641]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.03.48:955][641]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2020.09.28-11.03.48:955][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007693s)
+[2020.09.28-11.03.48:988][641]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.09.28-11.03.48:988][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.03.48:988][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.03.48:988][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.03.48:988][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.03.48:988][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.03.48:988][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.03.48:989][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.03.48:989][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.03.48:989][641]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.03.48:989][641]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.03.48:996][641]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.03.49:000][641]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.03.49:001][641]LogInit: FAudioDevice initialized.
+[2020.09.28-11.03.49:008][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.03.49:010][641]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.03.49
+[2020.09.28-11.03.49:010][641]LogWorld: Bringing up level for play took: 0.001924
+[2020.09.28-11.03.49:010][641]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.09.28-11.03.49:014][641]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.742
+[2020.09.28-11.03.58:049][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.03.58:067][723]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.03.58:087][723]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.03.58:087][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.03.58:087][723]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.03.58:087][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.03.58:087][723]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.03.58:087][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.03.58:097][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.03.58:102][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.03.58:130][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.03.58:132][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.03.58:137][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.09.28-11.03.58:152][724]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.09.28-11.04.06:314][616]BlueprintLog: New page: Compile Door
+[2020.09.28-11.04.06:578][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.09.28-11.04.08:008][783]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.04.08:026][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.04.08:026][783]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:04:08)
+[2020.09.28-11.04.08:027][783]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.04.08:033][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006899s)
+[2020.09.28-11.04.08:034][783]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.04.08:034][783]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.09.28-11.04.08:034][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007666s)
+[2020.09.28-11.04.08:066][783]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.04.08:067][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.04.08:067][783]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.04.08:067][783]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.04.08:074][783]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.04.08:074][783]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.04.08:074][783]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.04.08:074][783]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.04.08:074][783]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.04.08:074][783]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.04.08:075][783]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.04.08:075][783]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.04.08:075][783]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.04.08:078][783]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.04.08:079][783]LogInit: FAudioDevice initialized.
+[2020.09.28-11.04.08:082][783]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.04.08:084][783]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.04.08
+[2020.09.28-11.04.08:084][783]LogWorld: Bringing up level for play took: 0.001908
+[2020.09.28-11.04.08:085][783]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.09.28-11.04.08:089][783]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.333
+[2020.09.28-11.04.21:707][412]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.04.21:716][412]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.04.21:736][412]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.04.21:736][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.04.21:736][412]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.04.21:736][412]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.04.21:736][412]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.04.21:736][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.04.21:745][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.04.21:750][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.04.21:779][412]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.04.21:781][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.04.21:786][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.09.28-11.04.21:817][414]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.09.28-11.04.48:903][563]BlueprintLog: New page: Compile Door
+[2020.09.28-11.04.49:163][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.09.28-11.04.50:386][704]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.04.50:405][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.04.50:405][704]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:04:50)
+[2020.09.28-11.04.50:405][704]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.04.50:412][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006994s)
+[2020.09.28-11.04.50:413][704]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.04.50:413][704]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.09.28-11.04.50:413][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007754s)
+[2020.09.28-11.04.50:446][704]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.04.50:447][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.04.50:447][704]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.04.50:447][704]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.04.50:454][704]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.04.50:454][704]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.04.50:454][704]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.04.50:454][704]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.04.50:455][704]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.04.50:455][704]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.04.50:455][704]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.04.50:455][704]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.04.50:455][704]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.04.50:458][704]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.04.50:459][704]LogInit: FAudioDevice initialized.
+[2020.09.28-11.04.50:468][704]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.04.50:470][704]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.04.50
+[2020.09.28-11.04.50:470][704]LogWorld: Bringing up level for play took: 0.001949
+[2020.09.28-11.04.50:471][704]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.09.28-11.04.50:475][704]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.719
+[2020.09.28-11.05.00:259][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.05.00:276][876]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.05.00:296][876]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.05.00:296][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.05.00:296][876]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.05.00:296][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.05.00:296][876]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.05.00:296][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.05.00:310][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.05.00:315][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.05.00:342][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.05.00:344][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.05.00:349][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.09.28-11.05.00:364][877]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.09.28-11.05.25:075][697]BlueprintLog: New page: Compile Door
+[2020.09.28-11.05.25:333][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.09.28-11.05.38:163][206]BlueprintLog: New page: Compile Door
+[2020.09.28-11.05.38:429][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.09.28-11.05.39:817][365]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.05.39:835][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.05.39:835][365]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:05:39)
+[2020.09.28-11.05.39:835][365]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.05.39:842][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006958s)
+[2020.09.28-11.05.39:843][365]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.05.39:843][365]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2020.09.28-11.05.39:843][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007727s)
+[2020.09.28-11.05.39:876][365]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.05.39:876][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.05.39:876][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.05.39:877][365]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.05.39:877][365]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.05.39:884][365]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.05.39:888][365]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.05.39:889][365]LogInit: FAudioDevice initialized.
+[2020.09.28-11.05.39:894][365]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.05.39:896][365]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.05.39
+[2020.09.28-11.05.39:896][365]LogWorld: Bringing up level for play took: 0.001949
+[2020.09.28-11.05.39:897][365]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.09.28-11.05.39:901][365]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.145
+[2020.09.28-11.05.47:051][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.05.47:056][221]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.05.47:076][221]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.05.47:076][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.05.47:076][221]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.05.47:076][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.05.47:076][221]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.05.47:077][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.05.47:089][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.05.47:094][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.05.47:122][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.05.47:124][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.05.47:129][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.09.28-11.05.47:152][223]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.28-11.06.57:000][ 63]BlueprintLog: New page: Compile Door
+[2020.09.28-11.06.57:261][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.09.28-11.06.58:669][224]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.06.58:687][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.06.58:687][224]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:06:58)
+[2020.09.28-11.06.58:687][224]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.06.58:694][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006682s)
+[2020.09.28-11.06.58:694][224]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.06.58:695][224]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2020.09.28-11.06.58:695][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007458s)
+[2020.09.28-11.06.58:731][224]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.09.28-11.06.58:731][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.06.58:732][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.06.58:732][224]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.06.58:732][224]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.06.58:739][224]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.06.58:743][224]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.06.58:744][224]LogInit: FAudioDevice initialized.
+[2020.09.28-11.06.58:754][224]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.06.58:757][224]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.06.58
+[2020.09.28-11.06.58:757][224]LogWorld: Bringing up level for play took: 0.001920
+[2020.09.28-11.06.58:757][224]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.09.28-11.06.58:762][224]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 1.006
+[2020.09.28-11.07.03:413][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.07.03:416][780]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.07.03:436][780]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.07.03:436][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.07.03:436][780]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.07.03:436][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.07.03:436][780]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.07.03:436][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.07.03:451][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.07.03:456][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.07.03:484][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.07.03:486][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.07.03:491][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.09.28-11.07.03:526][782]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.09.28-11.07.53:772][473]BlueprintLog: New page: Compile Door
+[2020.09.28-11.07.54:035][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.09.28-11.07.55:454][635]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.07.55:472][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.07.55:473][635]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:07:55)
+[2020.09.28-11.07.55:473][635]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.07.55:480][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006974s)
+[2020.09.28-11.07.55:480][635]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.07.55:480][635]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2020.09.28-11.07.55:480][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007744s)
+[2020.09.28-11.07.55:516][635]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.07.55:517][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.07.55:517][635]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.07.55:517][635]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.07.55:525][635]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.07.55:528][635]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.07.55:529][635]LogInit: FAudioDevice initialized.
+[2020.09.28-11.07.55:533][635]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.07.55:535][635]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.07.55
+[2020.09.28-11.07.55:535][635]LogWorld: Bringing up level for play took: 0.001926
+[2020.09.28-11.07.55:536][635]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.28-11.07.55:540][635]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.216
+[2020.09.28-11.08.02:524][471]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.08.02:526][471]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.08.02:546][471]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.08.02:546][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.08.02:546][471]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.08.02:546][471]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.08.02:546][471]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.08.02:546][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.08.02:561][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.08.02:566][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.08.02:593][471]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.08.02:595][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.08.02:601][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.09.28-11.08.02:635][473]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.28-11.09.01:234][329]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::LessEqual_FloatFloat' [Element not found.]
+[2020.09.28-11.09.04:023][636]BlueprintLog: New page: Compile Door
+[2020.09.28-11.09.04:284][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.09.28-11.09.13:911][766]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.09.13:930][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.09.13:930][766]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:09:13)
+[2020.09.28-11.09.13:930][766]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.09.13:937][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006888s)
+[2020.09.28-11.09.13:938][766]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.09.13:938][766]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2020.09.28-11.09.13:938][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007695s)
+[2020.09.28-11.09.13:971][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.09.13:972][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.09.13:972][766]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.09.13:972][766]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.09.13:980][766]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.09.13:984][766]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.09.13:985][766]LogInit: FAudioDevice initialized.
+[2020.09.28-11.09.13:989][766]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.09.13:991][766]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.09.13
+[2020.09.28-11.09.13:991][766]LogWorld: Bringing up level for play took: 0.001915
+[2020.09.28-11.09.13:992][766]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.28-11.09.13:996][766]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.239
+[2020.09.28-11.09.20:788][579]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.09.20:806][579]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.09.20:826][579]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.09.20:826][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.09.20:826][579]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.09.20:826][579]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.09.20:826][579]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.09.20:827][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.09.20:836][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.09.20:841][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.09.20:869][579]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.09.20:871][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.09.20:875][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.09.28-11.09.20:891][580]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.28-11.09.34:948][142]BlueprintLog: New page: Compile Door
+[2020.09.28-11.09.35:214][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.09.28-11.10.14:325][793]BlueprintLog: New page: Compile Door
+[2020.09.28-11.10.14:588][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.09.28-11.10.15:962][950]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.10.15:981][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.10.15:981][950]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:10:15)
+[2020.09.28-11.10.15:981][950]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.10.15:988][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006980s)
+[2020.09.28-11.10.15:989][950]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.10.15:989][950]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2020.09.28-11.10.15:989][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007762s)
+[2020.09.28-11.10.16:024][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.10.16:025][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.10.16:025][950]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.10.16:025][950]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.10.16:032][950]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.10.16:036][950]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.10.16:037][950]LogInit: FAudioDevice initialized.
+[2020.09.28-11.10.16:042][950]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.10.16:044][950]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.10.16
+[2020.09.28-11.10.16:044][950]LogWorld: Bringing up level for play took: 0.001945
+[2020.09.28-11.10.16:045][950]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.28-11.10.16:049][950]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.293
+[2020.09.28-11.10.22:733][750]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.10.22:736][750]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.10.22:756][750]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.10.22:756][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.10.22:756][750]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.10.22:756][750]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.10.22:756][750]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.10.22:757][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.10.22:768][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.10.22:773][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.10.22:803][750]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.10.22:805][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.10.22:809][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.28-11.10.22:845][752]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.09.28-11.10.30:059][502]BlueprintLog: New page: Compile Door
+[2020.09.28-11.10.30:326][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.09.28-11.10.36:129][183]BlueprintLog: New page: Compile Door
+[2020.09.28-11.10.36:398][183]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.09.28-11.10.37:958][364]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.10.37:976][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.10.37:976][364]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:10:37)
+[2020.09.28-11.10.37:976][364]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.10.37:983][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006957s)
+[2020.09.28-11.10.37:984][364]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.10.37:984][364]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2020.09.28-11.10.37:984][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007727s)
+[2020.09.28-11.10.38:017][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.10.38:018][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.10.38:018][364]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.10.38:018][364]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.10.38:026][364]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.10.38:029][364]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.10.38:030][364]LogInit: FAudioDevice initialized.
+[2020.09.28-11.10.38:035][364]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.10.38:037][364]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.10.38
+[2020.09.28-11.10.38:037][364]LogWorld: Bringing up level for play took: 0.001946
+[2020.09.28-11.10.38:038][364]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.09.28-11.10.38:042][364]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.285
+[2020.09.28-11.10.45:854][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.10.45:856][299]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.10.45:886][299]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.10.45:886][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.10.45:886][299]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.10.45:886][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.10.45:886][299]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.10.45:887][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.10.45:897][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.10.45:902][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.10.45:929][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.10.45:931][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.10.45:936][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.09.28-11.10.45:972][301]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.09.28-11.10.54:326][109]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.10.54:344][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.10.54:345][109]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:10:54)
+[2020.09.28-11.10.54:345][109]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.10.54:351][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006749s)
+[2020.09.28-11.10.54:352][109]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.10.54:352][109]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2020.09.28-11.10.54:352][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007506s)
+[2020.09.28-11.10.54:385][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.10.54:386][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.10.54:386][109]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.10.54:386][109]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.10.54:393][109]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.10.54:397][109]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.10.54:398][109]LogInit: FAudioDevice initialized.
+[2020.09.28-11.10.54:403][109]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.10.54:405][109]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.10.54
+[2020.09.28-11.10.54:406][109]LogWorld: Bringing up level for play took: 0.001910
+[2020.09.28-11.10.54:406][109]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.09.28-11.10.54:410][109]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.654
+[2020.09.28-11.11.22:265][206]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.11.22:816][272]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.11.23:716][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.23:736][380]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.11.23:757][380]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.11.23:757][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.11.23:757][380]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.11.23:757][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.23:757][380]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.11.23:758][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.11.23:772][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.11.23:777][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.11.23:804][380]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.23:806][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.11.23:811][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.09.28-11.11.23:847][381]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.09.28-11.11.24:017][400]Cmd: SELECT NONE
+[2020.09.28-11.11.50:356][520]BlueprintLog: New page: Compile Door
+[2020.09.28-11.11.50:620][520]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.09.28-11.11.52:123][695]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.11.52:141][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.11.52:142][695]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:11:52)
+[2020.09.28-11.11.52:142][695]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.11.52:149][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006988s)
+[2020.09.28-11.11.52:149][695]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.11.52:149][695]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2020.09.28-11.11.52:149][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007769s)
+[2020.09.28-11.11.52:183][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.11.52:183][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.11.52:183][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.11.52:184][695]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.11.52:184][695]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.11.52:191][695]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.11.52:195][695]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.11.52:196][695]LogInit: FAudioDevice initialized.
+[2020.09.28-11.11.52:200][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.11.52:203][695]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.11.52
+[2020.09.28-11.11.52:203][695]LogWorld: Bringing up level for play took: 0.001952
+[2020.09.28-11.11.52:203][695]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.09.28-11.11.52:207][695]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.452
+[2020.09.28-11.11.56:700][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.56:700][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.56:700][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.11.56:700][232]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.11.56:700][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.56:700][232]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.11.56:701][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.11.56:713][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.11.56:718][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.11.56:746][232]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.11.56:748][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.11.56:753][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.09.28-11.11.56:799][236]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.09.28-11.13.49:257][899]LogEditorTransaction: Undo Create Pin Link
+[2020.09.28-11.13.49:476][908]LogEditorTransaction: Undo Break Pin Links
+[2020.09.28-11.13.50:021][952]LogEditorTransaction: Undo Move Node
+[2020.09.28-11.13.51:366][109]LogEditorTransaction: Undo Create Pin Link
+[2020.09.28-11.14.18:757][333]BlueprintLog: New page: Compile Door
+[2020.09.28-11.14.19:028][333]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.09.28-11.14.20:989][562]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.14.21:008][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.14.21:008][562]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:14:21)
+[2020.09.28-11.14.21:008][562]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.14.21:015][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007010s)
+[2020.09.28-11.14.21:015][562]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.14.21:015][562]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.09.28-11.14.21:015][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007789s)
+[2020.09.28-11.14.21:047][562]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.14.21:048][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.14.21:048][562]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.14.21:048][562]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.14.21:056][562]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.14.21:060][562]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.14.21:061][562]LogInit: FAudioDevice initialized.
+[2020.09.28-11.14.21:069][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.14.21:071][562]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.14.21
+[2020.09.28-11.14.21:071][562]LogWorld: Bringing up level for play took: 0.001911
+[2020.09.28-11.14.21:072][562]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.09.28-11.14.21:076][562]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.68
+[2020.09.28-11.14.33:901][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.14.33:906][ 99]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.14.33:926][ 99]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.14.33:926][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.14.33:926][ 99]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.14.33:926][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.14.33:926][ 99]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.14.33:927][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.14.33:940][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.14.33:945][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.14.33:972][ 99]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.14.33:974][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.14.33:978][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.09.28-11.14.34:008][101]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.09.28-11.15.11:879][442]BlueprintLog: New page: Compile Door
+[2020.09.28-11.15.12:149][442]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.09.28-11.15.16:208][912]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.15.16:209][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.16.28:138][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.09.28-11.16.28:141][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BedRoom" FILE="../../../../../Crunch/CRUNCH/Saved/Autosaves/Game/Level/BedRoom_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.28-11.16.28:181][519]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/BedRoom_Auto1C632676A4AAE20D12447D0B179BE0A4E.tmp' to '../../../../../Crunch/CRUNCH/Saved/Autosaves/Game/Level/BedRoom_Auto1.umap'
+[2020.09.28-11.16.28:182][519]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/BedRoom' took 0.076
+[2020.09.28-11.16.28:182][519]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2020.09.28-11.16.28:182][519]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors/Door] ([1] browsable assets)...
+[2020.09.28-11.16.28:211][519]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Door.Door]
+[2020.09.28-11.16.28:211][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Door]
+[2020.09.28-11.16.28:211][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Door" FILE="../../../../../Crunch/CRUNCH/Saved/Autosaves/Game/Actors/Door_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.09.28-11.16.28:246][519]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/Door_Auto14BCF277C4FF412002329C78288A1B434.tmp' to '../../../../../Crunch/CRUNCH/Saved/Autosaves/Game/Actors/Door_Auto1.uasset'
+[2020.09.28-11.16.28:246][519]LogFileHelpers: Auto-saving content packages took 0.064
+[2020.09.28-11.16.51:637][786]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (sm_middlewall)
+[2020.09.28-11.16.52:505][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_middlewall)
+[2020.09.28-11.17.55:419][262]LogTexture: Display: Building textures: Main_Menu (AutoDXT, 1920X1080)
+[2020.09.28-11.17.55:433][262]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Main_Menu.Main_Menu
+[2020.09.28-11.17.55:549][262]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.09.28-11.18.11:137][278]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:\Foley\Sounds\Sprocket\UI\SliderClick.wav)
+[2020.09.28-11.18.11:138][278]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave SliderClick...
+[2020.09.28-11.18.11:138][278]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/SliderClick.SliderClick will be modified from 40 to 40.
+[2020.09.28-11.18.11:180][278]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 9800 while cooking SoundWave /Game/Assets/Sounds/SliderClick.SliderClick.
+[2020.09.28-11.18.25:172][701]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.09.28-11.18.29:230][ 10]LogSlate: Took 0.102780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.28-11.19.08:685][ 47]BlueprintLog: New page: Compile MainMenu
+[2020.09.28-11.19.08:777][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.09.28-11.19.10:302][210]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.19.10:331][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.19.10:331][210]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:19:10)
+[2020.09.28-11.19.10:331][210]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.19.10:338][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006777s)
+[2020.09.28-11.19.10:338][210]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.19.10:339][210]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2020.09.28-11.19.10:339][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007583s)
+[2020.09.28-11.19.10:393][210]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.19.10:394][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.19.10:394][210]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.19.10:394][210]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.19.10:402][210]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.19.10:406][210]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.19.10:407][210]LogInit: FAudioDevice initialized.
+[2020.09.28-11.19.10:413][210]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.19.10:415][210]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.19.10
+[2020.09.28-11.19.10:415][210]LogWorld: Bringing up level for play took: 0.001914
+[2020.09.28-11.19.10:415][210]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.09.28-11.19.10:420][210]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.664
+[2020.09.28-11.19.12:871][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.19.12:886][501]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.19.12:906][501]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.19.12:906][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.19.12:906][501]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.19.12:906][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.19.12:906][501]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.19.12:907][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.19.12:913][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.19.12:918][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.19.12:949][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.19.12:951][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.19.12:956][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.09.28-11.19.12:971][502]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.09.28-11.19.15:998][859]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseScreen.PauseScreen
+[2020.09.28-11.19.38:227][384]BlueprintLog: New page: Compile PauseScreen
+[2020.09.28-11.19.38:273][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.09.28-11.19.40:658][658]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.19.40:658][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.19.40:680][658]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.19.40:681][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.19.42:348][850]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.19.42:348][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.19.42:353][850]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.19.42:353][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.19.46:651][328]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/StartScreen.StartScreen
+[2020.09.28-11.20.01:052][982]BlueprintLog: New page: Compile StartScreen
+[2020.09.28-11.20.01:113][982]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.09.28-11.20.01:622][ 37]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.20.01:623][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.20.01:627][ 37]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.20.01:627][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.20.03:634][245]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.20.03:652][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.20.03:652][245]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:20:03)
+[2020.09.28-11.20.03:653][245]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.20.03:659][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006626s)
+[2020.09.28-11.20.03:660][245]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.20.03:660][245]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.09.28-11.20.03:660][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007388s)
+[2020.09.28-11.20.03:705][245]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.20.03:706][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.20.03:706][245]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.20.03:706][245]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.20.03:714][245]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.20.03:717][245]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.20.03:718][245]LogInit: FAudioDevice initialized.
+[2020.09.28-11.20.03:728][245]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.20.03:730][245]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.20.03
+[2020.09.28-11.20.03:731][245]LogWorld: Bringing up level for play took: 0.001897
+[2020.09.28-11.20.03:731][245]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.09.28-11.20.03:736][245]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.021
+[2020.09.28-11.20.05:361][438]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.20.05:366][438]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.20.05:386][438]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.20.05:386][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.20.05:386][438]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.20.05:386][438]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.20.05:386][438]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.20.05:387][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.20.05:395][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.20.05:400][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.20.05:426][438]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.20.05:428][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.20.05:432][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.09.28-11.20.05:462][440]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.09.28-11.20.08:479][798]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.28-11.20.40:893][533]BlueprintLog: New page: Compile WinScreen
+[2020.09.28-11.20.40:930][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.09.28-11.20.43:837][868]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/StartScreen.StartScreen
+[2020.09.28-11.20.48:302][354]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.20.48:302][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.20.48:306][354]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.20.48:306][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.07:551][600]BlueprintLog: New page: Compile WinScreen
+[2020.09.28-11.21.07:593][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.09.28-11.21.16:986][676]BlueprintLog: New page: Compile WinScreen
+[2020.09.28-11.21.17:025][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.09.28-11.21.19:261][935]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.21.19:261][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.19:265][935]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.21.19:265][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.23:291][384]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/InteractPopUp.InteractPopUp
+[2020.09.28-11.21.26:633][742]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.21.26:633][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.26:650][742]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.21.26:650][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.28:490][930]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/InteractPopUp.InteractPopUp
+[2020.09.28-11.21.32:106][317]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.21.32:106][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.32:123][317]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.21.32:123][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.21.39:191][ 49]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameOverScreen.GameOverScreen
+[2020.09.28-11.22.04:264][934]BlueprintLog: New page: Compile GameOverScreen
+[2020.09.28-11.22.04:308][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.09.28-11.22.04:988][  7]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.22.04:988][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.22.04:992][  7]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.22.04:992][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.22.07:553][294]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameProgressScreen.GameProgressScreen
+[2020.09.28-11.22.12:766][877]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.22.12:766][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.22.12:770][877]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.22.12:770][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.22.16:713][324]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameCancelled.GameCancelled
+[2020.09.28-11.22.36:999][625]BlueprintLog: New page: Compile GameCancelled
+[2020.09.28-11.22.37:041][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.09.28-11.22.38:397][780]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.22.38:397][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.22.38:401][780]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.22.38:401][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.22.40:470][  3]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.22.40:489][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.22.40:489][  3]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:22:40)
+[2020.09.28-11.22.40:489][  3]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.22.40:496][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006682s)
+[2020.09.28-11.22.40:496][  3]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.22.40:496][  3]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2020.09.28-11.22.40:496][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007459s)
+[2020.09.28-11.22.40:528][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.22.40:529][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.22.40:529][  3]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.22.40:529][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.22.40:537][  3]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.22.40:541][  3]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.22.40:542][  3]LogInit: FAudioDevice initialized.
+[2020.09.28-11.22.40:551][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.22.40:553][  3]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.22.40
+[2020.09.28-11.22.40:554][  3]LogWorld: Bringing up level for play took: 0.001925
+[2020.09.28-11.22.40:554][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.09.28-11.22.40:559][  3]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom 0.803
+[2020.09.28-11.23.03:309][728]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.23.03:817][789]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.23.09:242][440]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.23.11:751][741]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.28-11.23.11:876][756]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.28-11.23.11:967][767]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.09.28-11.23.13:743][980]LogNet: Browse: /Game/Level/BedRoom
+[2020.09.28-11.23.13:768][980]LogLoad: LoadMap: /Game/Level/BedRoom
+[2020.09.28-11.23.13:768][980]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.23.13:769][980]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.23.13:769][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.23.13:776][980]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.23.13:796][980]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.23.13:826][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.09.28-11.23.13:845][980]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.23.13:852][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006768s)
+[2020.09.28-11.23.13:852][980]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.23.13:852][980]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2020.09.28-11.23.13:852][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007556s)
+[2020.09.28-11.23.13:852][980]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.23.13:854][980]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.23.13
+[2020.09.28-11.23.13:854][980]LogWorld: Bringing up level for play took: 0.001718
+[2020.09.28-11.23.13:859][980]LogLoad: Took 0.091217 seconds to LoadMap(/Game/Level/UEDPIE_0_BedRoom)
+[2020.09.28-11.23.17:538][421]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.23.17:556][421]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.23.17:576][421]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.23.17:576][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.23.17:576][421]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.23.17:576][421]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.23.17:576][421]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.23.17:577][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.23.17:584][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.23.17:589][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.23.17:617][421]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.23.17:619][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.23.17:623][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.09.28-11.23.17:657][423]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.09.28-11.23.19:611][649]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.23.19:630][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.23.19:630][649]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:23:19)
+[2020.09.28-11.23.19:630][649]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.23.19:637][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006684s)
+[2020.09.28-11.23.19:637][649]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.23.19:638][649]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2020.09.28-11.23.19:638][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007459s)
+[2020.09.28-11.23.19:665][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.23.19:666][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.23.19:666][649]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.23.19:666][649]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.23.19:674][649]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.23.19:678][649]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.23.19:679][649]LogInit: FAudioDevice initialized.
+[2020.09.28-11.23.19:688][649]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.23.19:690][649]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.23.19
+[2020.09.28-11.23.19:690][649]LogWorld: Bringing up level for play took: 0.001910
+[2020.09.28-11.23.19:691][649]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.09.28-11.23.19:695][649]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.061
+[2020.09.28-11.23.27:746][610]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.23.27:766][610]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.23.27:786][610]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.23.27:786][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.23.27:786][610]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.23.27:786][610]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.23.27:786][610]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.23.27:787][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.23.27:796][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.23.27:801][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.23.27:828][610]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.23.27:830][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.23.27:834][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.09.28-11.23.27:846][611]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.09.28-11.23.29:162][764]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/StartScreen.StartScreen
+[2020.09.28-11.23.39:106][892]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.23.39:106][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.23.39:110][892]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.23.39:110][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.24.02:900][147]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.28-11.24.02:918][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.28-11.24.02:918][147]PIE: New page: PIE session: BedRoom (28 Sep 2020, 13:24:02)
+[2020.09.28-11.24.02:918][147]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.24.02:925][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006657s)
+[2020.09.28-11.24.02:926][147]LogAIModule: Creating AISystem for world BedRoom
+[2020.09.28-11.24.02:926][147]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2020.09.28-11.24.02:926][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/BedRoom.BedRoom to /Game/Level/UEDPIE_0_BedRoom.BedRoom (0.007440s)
+[2020.09.28-11.24.02:955][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.28-11.24.02:959][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.28-11.24.02:959][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.28-11.24.02:960][147]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.28-11.24.02:960][147]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Name: Speakers (Focusrite Usb Audio)
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Is Default: Yes
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: Channel Order:
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.28-11.24.02:967][147]LogAudioMixer: Display: 1: FrontRight
+[2020.09.28-11.24.02:971][147]LogAudioMixer: Display: Using Audio Device Speakers (Focusrite Usb Audio)
+[2020.09.28-11.24.02:972][147]LogInit: FAudioDevice initialized.
+[2020.09.28-11.24.02:980][147]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.09.28-11.24.02:982][147]LogWorld: Bringing World /Game/Level/UEDPIE_0_BedRoom.BedRoom up for play (max tick rate 0) at 2020.09.28-12.24.02
+[2020.09.28-11.24.02:983][147]LogWorld: Bringing up level for play took: 0.001922
+[2020.09.28-11.24.02:983][147]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.09.28-11.24.02:988][147]PIE: Play in editor start time for /Game/Level/UEDPIE_0_BedRoom -0.769
+[2020.09.28-11.24.26:138][923]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.24.26:538][971]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.24.31:963][622]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.24.32:481][684]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.09.28-11.24.38:397][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.24.38:406][394]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.28-11.24.38:426][394]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.28-11.24.38:426][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.24.38:426][394]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_BedRoom
+[2020.09.28-11.24.38:426][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.24.38:426][394]LogWorld: UWorld::CleanupWorld for BedRoom, bSessionEnded=true, bCleanupResources=true
+[2020.09.28-11.24.38:427][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.24.38:430][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.28-11.24.38:435][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.28-11.24.38:462][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.28-11.24.38:464][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.28-11.24.38:468][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.09.28-11.24.38:505][396]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.09.28-11.26.19:565][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BedRoom" FILE="../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.28-11.26.19:593][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.09.28-11.26.19:850][150]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/BedRoom899074014D912CD1D56C4B89D707CEFC.tmp' to '../../../../../Crunch/CRUNCH/Content/Level/BedRoom.umap'
+[2020.09.28-11.26.19:882][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/BedRoom_BuiltData" FILE="../../../../../Crunch/CRUNCH/Content/Level/BedRoom_BuiltData.uasset" SILENT=true
+[2020.09.28-11.26.20:028][150]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/BedRoom_BuiltDataF1297CCD4E68DCF1CD9A62835CF8481D.tmp' to '../../../../../Crunch/CRUNCH/Content/Level/BedRoom_BuiltData.uasset'
+[2020.09.28-11.26.20:042][150]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.28-11.26.20:042][150]LogContentValidation: Display: Validating World /Game/Level/BedRoom.BedRoom
+[2020.09.28-11.26.20:042][150]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/BedRoom_BuiltData.BedRoom_BuiltData
+[2020.09.28-11.26.22:118][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.09.28-11.26.22:133][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinScreen" FILE="../../../../../Crunch/CRUNCH/Content/UI/WinScreen.uasset" SILENT=true
+[2020.09.28-11.26.22:177][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/WinScreen7EFDE3454A05005321BD1593DB9081F1.tmp' to '../../../../../Crunch/CRUNCH/Content/UI/WinScreen.uasset'
+[2020.09.28-11.26.22:178][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseScreen" FILE="../../../../../Crunch/CRUNCH/Content/UI/PauseScreen.uasset" SILENT=true
+[2020.09.28-11.26.22:200][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/PauseScreenF77DDD684258E1DA896C6EAD8C1F5C36.tmp' to '../../../../../Crunch/CRUNCH/Content/UI/PauseScreen.uasset'
+[2020.09.28-11.26.22:201][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StartScreen" FILE="../../../../../Crunch/CRUNCH/Content/UI/StartScreen.uasset" SILENT=true
+[2020.09.28-11.26.22:241][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/StartScreenF9DEB94348C6546973835492E5E510E9.tmp' to '../../../../../Crunch/CRUNCH/Content/UI/StartScreen.uasset'
+[2020.09.28-11.26.22:242][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameCancelled" FILE="../../../../../Crunch/CRUNCH/Content/UI/GameCancelled.uasset" SILENT=true
+[2020.09.28-11.26.22:263][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/GameCancelledE656884645515CA62563E8959368D694.tmp' to '../../../../../Crunch/CRUNCH/Content/UI/GameCancelled.uasset'
+[2020.09.28-11.26.22:264][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameOverScreen" FILE="../../../../../Crunch/CRUNCH/Content/UI/GameOverScreen.uasset" SILENT=true
+[2020.09.28-11.26.22:349][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/GameOverScreenDF928B1A49DF37794A8B1BA6F60AC6AD.tmp' to '../../../../../Crunch/CRUNCH/Content/UI/GameOverScreen.uasset'
+[2020.09.28-11.26.22:350][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Door" FILE="../../../../../Crunch/CRUNCH/Content/Actors/Door.uasset" SILENT=true
+[2020.09.28-11.26.22:377][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/DoorE7FEB6964C0C64542D5DABB9FA6128AF.tmp' to '../../../../../Crunch/CRUNCH/Content/Actors/Door.uasset'
+[2020.09.28-11.26.22:380][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/SliderClick" FILE="../../../../../Crunch/CRUNCH/Content/Assets/Sounds/SliderClick.uasset" SILENT=true
+[2020.09.28-11.26.22:386][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/SliderClick14B7C9A24AB49667034FEE9A8B7EB5C1.tmp' to '../../../../../Crunch/CRUNCH/Content/Assets/Sounds/SliderClick.uasset'
+[2020.09.28-11.26.22:387][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Crunch/CRUNCH/Content/UI/MainMenu.uasset" SILENT=true
+[2020.09.28-11.26.22:405][381]LogSavePackage: Moving '../../../../../Crunch/CRUNCH/Saved/MainMenu0F1AE9E34C2327986385BE81390CB931.tmp' to '../../../../../Crunch/CRUNCH/Content/UI/MainMenu.uasset'
+[2020.09.28-11.26.22:450][381]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinScreen.WinScreen
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseScreen.PauseScreen
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/StartScreen.StartScreen
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/GameCancelled.GameCancelled
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/GameOverScreen.GameOverScreen
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating Blueprint /Game/Actors/Door.Door
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating SoundWave /Game/Assets/Sounds/SliderClick.SliderClick
+[2020.09.28-11.26.22:450][381]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
